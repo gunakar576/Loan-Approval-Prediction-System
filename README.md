@@ -1,6 +1,6 @@
-# 🏦 Loan Approval Prediction System (Machine Learning)
+#  Loan Approval Prediction System (Machine Learning)
 
-## 📌 Project Overview
+##  Project Overview
 The **Loan Approval Prediction System** is a machine learning classification project that predicts whether a loan application will be **Approved** or **Rejected** based on applicant details such as income, credit score, assets, education, and employment status.
 
 This project demonstrates a complete **end-to-end machine learning pipeline**, including data preprocessing, feature engineering, model training, evaluation, and prediction.
@@ -9,14 +9,14 @@ This project demonstrates a complete **end-to-end machine learning pipeline**, i
 
 ---
 
-## 🎯 Objective
+##  Objective
 - Automate the loan approval decision process  
 - Reduce human bias and manual effort  
 - Improve accuracy and consistency in loan approvals  
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 The dataset contains **4,269 records** with the following features:
 
 | Feature | Description |
@@ -33,7 +33,7 @@ The dataset contains **4,269 records** with the following features:
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 - Removed unnecessary column (`loan_id`)
 - Cleaned column names and string values
 - Converted categorical variables into numerical values
@@ -56,7 +56,7 @@ The dataset contains **4,269 records** with the following features:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python  
 - **Libraries:**
   - pandas
@@ -66,7 +66,7 @@ The dataset contains **4,269 records** with the following features:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 1. Data loading and exploration  
 2. Data cleaning and preprocessing  
 3. Feature engineering  
@@ -78,7 +78,7 @@ The dataset contains **4,269 records** with the following features:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 - **Accuracy:** **91.56%**
 
 
