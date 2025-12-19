@@ -46,7 +46,7 @@ The dataset contains **4,269 records** with the following features:
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 - **Algorithm:** Logistic Regression  
 - **Problem Type:** Binary Classification  
 - **Why Logistic Regression?**
